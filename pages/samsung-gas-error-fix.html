@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Samsung gAS Error Fix | Gas Supply Error Repair Guide</title>
+    <meta name="description" content="How to fix Samsung Dryer error gAS. Diagnosis: Gas Supply Error. Step-by-step DIY repair guide, parts list, and video help.">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+    
+    </head>
+<body>
+
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="logo">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+                <span>WasherCodes</span>
+            </a>
+            <div class="nav-links">
+                <a href="#how-it-works">How it Works</a>
+                <a href="#expert-help" class="nav-highlight">Talk to an Expert</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero-section">
+        <div class="hero-bg-overlay"></div>
+        <div class="container hero-content">
+            <h1>Don't Call a Repairman Yet.</h1>
+            <p class="hero-sub">Decode your error code instantly. Find the broken part. Fix it yourself for a fraction of the cost.</p>
+            
+            <div class="tool-card animate-on-load">
+                
+                <div class="search-container">
+                    <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                    <input type="text" id="searchInput" class="search-input" placeholder="Search code or issue (e.g., 'F21' or 'Won't Drain')">
+                </div>
+
+                <div class="divider"><span>OR SELECT MANUALLY</span></div>
+
+                <div class="grid-inputs">
+                    <div class="input-group">
+                        <label>1. Brand</label>
+                        <select id="brandSelect">
+                            <option value="">Select Brand</option>
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label>2. Appliance Type</label>
+                        <select id="typeSelect" disabled>
+                            <option value="">--</option>
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label>3. Error Code</label>
+                        <select id="codeSelect" disabled>
+                            <option value="">--</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div id="solutionCard" class="solution-card hidden">
+                    <div class="solution-header">
+                        <div class="code-badge" id="resCode">CODE</div>
+                        <h3 id="resIssue">Issue Title</h3>
+                    </div>
+                    
+                    <div class="diagnosis-box">
+                        <div class="box-icon">💡</div>
+                        <div class="box-content">
+                            <strong>Diagnosis:</strong>
+                            <p id="resFix">Fix description...</p>
+                        </div>
+                    </div>
+
+                    <div class="parts-section">
+                        <label>Recommended Parts:</label>
+                        <div id="resParts" class="parts-tags"></div>
+                    </div>
+
+                    <div class="action-buttons">
+                        <a id="btnBuy" href="#" target="_blank" class="btn btn-primary">
+                            🛒 Check Price on Amazon
+                        </a>
+                        <a id="btnVideo" href="#" target="_blank" class="btn btn-secondary">
+                            ▶️ Watch Repair Video
+                        </a>
+                    </div>
+                    <p class="affiliate-disclaimer">As an Amazon Associate, we earn from qualifying purchases.</p>
+                </div>
+            </div>
+            
+            <p class="trust-text">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                Used by 10,000+ homeowners to save money
+            </p>
+        </div>
+    </header>
+
+    <section class="brands-ticker">
+        <div class="container">
+            <span class="ticker-label">SUPPORTED BRANDS:</span>
+            <div class="ticker-list">
+                <span>Whirlpool</span> • <span>Samsung</span> • <span>LG</span> • <span>Maytag</span> • <span>GE</span> • <span>Kenmore</span> • <span>Bosch</span>
+            </div>
+        </div>
+    </section>
+
+    <section id="how-it-works" class="steps-section">
+        <div class="container">
+            <h2>How to fix your appliance</h2>
+            <div class="steps-grid">
+                <div class="step-card">
+                    <div class="step-icon">1</div>
+                    <h3>Enter Code</h3>
+                    <p>Type your error code (e.g., F21) into the search bar above.</p>
+                </div>
+                <div class="step-card">
+                    <div class="step-icon">2</div>
+                    <h3>Diagnose</h3>
+                    <p>Read our plain-English translation of what the code means.</p>
+                </div>
+                <div class="step-card">
+                    <div class="step-icon">3</div>
+                    <h3>Replace Part</h3>
+                    <p>Order the exact part you need and watch a video to install it.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="expert-help" class="expert-section">
+        <div class="container expert-container">
+            <div class="expert-text">
+                <h2>Can't fix it yourself?</h2>
+                <p>Some problems require a pro. Chat with a certified technician in minutes, 24/7.</p>
+                <ul class="expert-features">
+                    <li>✓ No appointment needed</li>
+                    <li>✓ Cheaper than a home visit</li>
+                    <li>✓ Verified Mechanics & Electricians</li>
+                </ul>
+            </div>
+            <div class="expert-action">
+                <a href="#" class="btn btn-expert">Chat with a Technician &rarr;</a>
+                <p class="small-note">Avg. response time: 5 minutes</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="testimonials-section">
+        <div class="container">
+            <h2>Community Feedback</h2>
+            <div class="testimonial-grid">
+                <div class="testi-card">
+                    <div class="stars">★★★★★</div>
+                    <p>"My washer showed F21. This site told me it was the pump. Bought the part for $30 and fixed it. Saved $200!"</p>
+                    <span class="user">- Sarah M.</span>
+                </div>
+                <div class="testi-card">
+                    <div class="stars">★★★★★</div>
+                    <p>"Thought I needed a new dryer. Turns out it was just a $15 door latch. Thank you!"</p>
+                    <span class="user">- Mike R.</span>
+                </div>
+                <div class="testi-card">
+                    <div class="stars">★★★★★</div>
+                    <p>"Super easy to use. I didn't even know what the code meant until I found this."</p>
+                    <span class="user">- David K.</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq-section">
+        <div class="container">
+            <h2>Frequently Asked Questions</h2>
+            <div class="faq-list">
+                <details class="faq-item">
+                    <summary>Where do I find the error code?</summary>
+                    <p>The code typically appears on the digital display when the cycle stops. If you don't have a display, count the blinking lights.</p>
+                </details>
+                <details class="faq-item">
+                    <summary>Is it safe to fix it myself?</summary>
+                    <p>Most sensor and latch replacements are safe if you <strong>unplug the machine</strong> first. However, for electrical board repairs, consult a pro.</p>
+                </details>
+                <details class="faq-item">
+                    <summary>How do I know if the part fits?</summary>
+                    <p>When you click "Check Price," ensure you cross-reference your appliance's model number on the Amazon product page.</p>
+                </details>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <strong>WasherCodes</strong>
+                    <p>Free diagnostic utility for home appliances.</p>
+                </div>
+                <div class="footer-col">
+                    <strong>Quick Links</strong>
+                    <a href="#">Privacy Policy</a>
+                    <a href="#">Terms of Service</a>
+                    <a href="#">Contact</a>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2026 WasherCodes. All rights reserved.</p>
+                <p class="disclaimer">Disclaimer: Information provided is for educational purposes. Always unplug appliances before repair. We are not responsible for damages.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="service.js"></script>
+
+
+        <script>
+        // PROGRAMMATIC SEO INJECTION
+        // This waits for service.js to load the database, then auto-selects this page's error code.
+        window.addEventListener('load', () => {
+            const checkDB = setInterval(() => {
+                // Check if the DB global variable from service.js is populated
+                if (typeof DB !== 'undefined' && DB.length > 0) {
+                    clearInterval(checkDB);
+                    
+                    const brandSel = document.getElementById('brandSelect');
+                    const typeSel = document.getElementById('typeSelect');
+                    const codeSel = document.getElementById('codeSelect');
+                    
+                    // 1. Set Brand
+                    brandSel.value = "Samsung";
+                    
+                    // 2. Trigger Type Update (passing the type we want)
+                    // The 'updateTypes' function in service.js was built to handle this!
+                    if (typeof updateTypes === 'function') {
+                        updateTypes("Dryer");
+                        
+                        // 3. Trigger Code Update (passing the code we want)
+                        // 'updateTypes' will call 'updateCodes', but we ensure the code is set
+                        setTimeout(() => {
+                            if (typeof updateCodes === 'function') {
+                                updateCodes("gAS");
+                            }
+                        }, 50);
+                    }
+                }
+            }, 100); // Check every 100ms
+        });
+        </script>
+        
+</body>
+</html>
