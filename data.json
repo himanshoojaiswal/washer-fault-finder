@@ -1,0 +1,2118 @@
+[
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F21",
+    "issue": "Long Drain Error",
+    "fix_summary": "The washer is taking too long to drain, usually due to a clogged drain pump filter or a failing drain pump.",
+    "parts_needed": [
+      "Drain Pump",
+      "Drain Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+drain+pump&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f21+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F01",
+    "issue": "Main Control Board Failure",
+    "fix_summary": "A communication or internal failure in the main control board.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f01+error+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F02",
+    "issue": "Drain Error",
+    "fix_summary": "The washer cannot drain properly due to blockages or pump issues.",
+    "parts_needed": [
+      "Drain Pump",
+      "Drain Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+drain+pump&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f02+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F05",
+    "issue": "Water Temperature Sensor Error",
+    "fix_summary": "The thermistor is reporting incorrect water temperature.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f05+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F06",
+    "issue": "Motor Control Error",
+    "fix_summary": "The motor control unit cannot properly drive the motor.",
+    "parts_needed": [
+      "Motor Control Board",
+      "Drive Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+motor+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f06+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F07",
+    "issue": "Motor Speed Error",
+    "fix_summary": "The washer cannot reach or sense proper motor speed.",
+    "parts_needed": [
+      "Motor Control Board",
+      "Drive Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+drive+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f07+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F08",
+    "issue": "Heater Error",
+    "fix_summary": "The water heater is not heating or is overheating.",
+    "parts_needed": [
+      "Heating Element",
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f08+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F09",
+    "issue": "Overflow Condition",
+    "fix_summary": "Too much water is detected in the tub.",
+    "parts_needed": [
+      "Water Inlet Valve",
+      "Pressure Switch"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+water+inlet+valve&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f09+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F10",
+    "issue": "Motor Overheating",
+    "fix_summary": "The motor is overheating due to overload or control issues.",
+    "parts_needed": [
+      "Drive Motor",
+      "Motor Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f10+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F11",
+    "issue": "Communication Error",
+    "fix_summary": "Lost communication between control boards.",
+    "parts_needed": [
+      "Main Control Board",
+      "Motor Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f11+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F13",
+    "issue": "Water Inlet Error",
+    "fix_summary": "Water is not entering the washer correctly.",
+    "parts_needed": [
+      "Water Inlet Valve"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+water+inlet+valve&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f13+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F14",
+    "issue": "EEPROM Error",
+    "fix_summary": "Corrupted data in the control board memory.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+main+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f14+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F15",
+    "issue": "Motor Control Failure",
+    "fix_summary": "The motor control board is not responding.",
+    "parts_needed": [
+      "Motor Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+motor+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f15+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F18",
+    "issue": "Drain Pump Fault",
+    "fix_summary": "Drain pump is blocked or defective.",
+    "parts_needed": [
+      "Drain Pump"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+drain+pump&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f18+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F20",
+    "issue": "No Water Detected",
+    "fix_summary": "The washer is not detecting incoming water.",
+    "parts_needed": [
+      "Water Inlet Valve",
+      "Pressure Switch"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+pressure+switch&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f20+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F22",
+    "issue": "Door Lock Error",
+    "fix_summary": "The washer door cannot lock or unlock properly.",
+    "parts_needed": [
+      "Door Lock Assembly"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+door+lock&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f22+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F23",
+    "issue": "Water Temperature Too High",
+    "fix_summary": "The washer senses overheating water.",
+    "parts_needed": [
+      "Thermistor",
+      "Heating Element"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f23+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F24",
+    "issue": "Water Temperature Too Low",
+    "fix_summary": "The washer cannot heat water properly.",
+    "parts_needed": [
+      "Heating Element",
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f24+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F25",
+    "issue": "Pressure Switch Error",
+    "fix_summary": "Incorrect water level readings are detected.",
+    "parts_needed": [
+      "Pressure Switch"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+pressure+switch&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f25+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F26",
+    "issue": "Drive Motor Fault",
+    "fix_summary": "The motor is not operating as expected.",
+    "parts_needed": [
+      "Drive Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+drive+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f26+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F27",
+    "issue": "Overflow Switch Error",
+    "fix_summary": "The overflow switch is stuck or malfunctioning.",
+    "parts_needed": [
+      "Overflow Switch"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+overflow+switch&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f27+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F28",
+    "issue": "Serial Communication Error",
+    "fix_summary": "Communication failure between internal components.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+main+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f28+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F29",
+    "issue": "Door Unlock Error",
+    "fix_summary": "The washer door fails to unlock after cycle completion.",
+    "parts_needed": [
+      "Door Lock Assembly"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+door+lock&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f29+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F30",
+    "issue": "Dispenser Motor Error",
+    "fix_summary": "The detergent dispenser motor is not operating.",
+    "parts_needed": [
+      "Dispenser Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+dispenser+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f30+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F31",
+    "issue": "Water Level Sensor Failure",
+    "fix_summary": "The washer cannot accurately sense water level.",
+    "parts_needed": [
+      "Water Level Sensor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+water+level+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f31+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F32",
+    "issue": "Drain Hose Error",
+    "fix_summary": "Improper drain hose installation or blockage.",
+    "parts_needed": [
+      "Drain Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+drain+hose&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f32+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F33",
+    "issue": "Pressure System Error",
+    "fix_summary": "The pressure system cannot detect water changes.",
+    "parts_needed": [
+      "Pressure Switch",
+      "Air Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+air+hose&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f33+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F34",
+    "issue": "Door Switch Failure",
+    "fix_summary": "The door switch is not detecting door status.",
+    "parts_needed": [
+      "Door Switch"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+door+switch&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f34+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Washer",
+    "code": "F35",
+    "issue": "Analog Pressure Sensor Error",
+    "fix_summary": "The pressure sensor is giving invalid readings.",
+    "parts_needed": [
+      "Pressure Sensor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+washer+pressure+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+f35+fix"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "4E",
+    "issue": "Water Supply Error",
+    "fix_summary": "The washer is not filling properly due to low water pressure or a faulty inlet valve.",
+    "parts_needed": [
+      "Water Inlet Valve",
+      "Inlet Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+water+inlet+valve&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+4e+washer+error+fix"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "5E",
+    "issue": "Drain Error",
+    "fix_summary": "The washer is unable to drain water due to a clogged filter or failed drain pump.",
+    "parts_needed": [
+      "Drain Pump",
+      "Drain Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+drain+pump&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+5e+washer+error+fix"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "UE",
+    "issue": "Unbalanced Load",
+    "fix_summary": "The load is unevenly distributed, preventing proper spinning.",
+    "parts_needed": [
+      "Suspension Rods",
+      "Shock Absorbers"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+suspension+rods&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+ue+error+washer"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "LE",
+    "issue": "Water Leakage Error",
+    "fix_summary": "Water leakage detected due to loose hoses or faulty sensors.",
+    "parts_needed": [
+      "Leak Sensor",
+      "Drain Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+leak+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+le+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "OE",
+    "issue": "Overflow Error",
+    "fix_summary": "The washer is overfilling with water.",
+    "parts_needed": [
+      "Water Inlet Valve",
+      "Pressure Switch"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+pressure+switch&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+oe+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "HE",
+    "issue": "Heating Error",
+    "fix_summary": "The water is not heating correctly.",
+    "parts_needed": [
+      "Heating Element",
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+he+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "tE",
+    "issue": "Temperature Sensor Error",
+    "fix_summary": "The washer cannot detect correct water temperature.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+te+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "dE",
+    "issue": "Door Error",
+    "fix_summary": "The washer door is not locking or closing properly.",
+    "parts_needed": [
+      "Door Lock Assembly"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+door+lock&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+de+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "3E",
+    "issue": "Motor Error",
+    "fix_summary": "The drive motor is not operating correctly.",
+    "parts_needed": [
+      "Drive Motor",
+      "Motor Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+drive+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+3e+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "9E1",
+    "issue": "Low Voltage Error",
+    "fix_summary": "The washer is detecting unstable or low power supply.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+9e1+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "9E2",
+    "issue": "High Voltage Error",
+    "fix_summary": "The washer is detecting excessively high voltage.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+9e2+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "AE",
+    "issue": "Communication Error",
+    "fix_summary": "Loss of communication between internal control boards.",
+    "parts_needed": [
+      "Main Control Board",
+      "Inverter Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+inverter+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+ae+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "bE",
+    "issue": "Button Error",
+    "fix_summary": "One or more control panel buttons are stuck.",
+    "parts_needed": [
+      "Control Panel",
+      "User Interface Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+control+panel&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+be+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "FE",
+    "issue": "Ventilation Error",
+    "fix_summary": "Airflow problem detected in washer-dryer combo units.",
+    "parts_needed": [
+      "Fan Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+fan+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+fe+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "CE",
+    "issue": "Water Temperature Error",
+    "fix_summary": "Incoming water temperature is too hot.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+ce+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "HC",
+    "issue": "Heating Circuit Error",
+    "fix_summary": "The heater circuit is malfunctioning.",
+    "parts_needed": [
+      "Heating Element",
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+heater&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+hc+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "UB",
+    "issue": "Excessive Vibration",
+    "fix_summary": "The washer is vibrating excessively due to imbalance or worn suspension.",
+    "parts_needed": [
+      "Suspension Rods"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+suspension+rods&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+ub+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "LC",
+    "issue": "Leak Detection Error",
+    "fix_summary": "A water leak has been detected inside the washer.",
+    "parts_needed": [
+      "Leak Sensor",
+      "Drain Pump"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+leak+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+lc+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "PE",
+    "issue": "Water Level Sensor Error",
+    "fix_summary": "The washer cannot read water level correctly.",
+    "parts_needed": [
+      "Pressure Sensor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+pressure+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+pe+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "DC",
+    "issue": "Door Open Error",
+    "fix_summary": "The door is not properly closed during operation.",
+    "parts_needed": [
+      "Door Lock Assembly"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+door+lock&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dc+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "NF",
+    "issue": "No Fill Error",
+    "fix_summary": "The washer is not filling with water.",
+    "parts_needed": [
+      "Water Inlet Valve"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+water+inlet+valve&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+nf+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "PF",
+    "issue": "Power Failure",
+    "fix_summary": "A power interruption occurred during the cycle.",
+    "parts_needed": [
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+pf+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "SE",
+    "issue": "Drain Sensor Error",
+    "fix_summary": "Drain sensor is not detecting proper water flow.",
+    "parts_needed": [
+      "Drain Pump",
+      "Drain Sensor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+drain+pump&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+se+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "IE",
+    "issue": "Water Inlet Error",
+    "fix_summary": "Water inlet system is not functioning properly.",
+    "parts_needed": [
+      "Water Inlet Valve"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+water+inlet+valve&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+ie+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "ME",
+    "issue": "Memory Error",
+    "fix_summary": "Internal memory error detected in the control board.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+main+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+me+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "CE1",
+    "issue": "Abnormal Water Temperature",
+    "fix_summary": "The washer detects abnormal water temperature during fill.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+ce1+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "BE2",
+    "issue": "Control Button Stuck",
+    "fix_summary": "A control button is stuck or shorted.",
+    "parts_needed": [
+      "User Interface Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+ui+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+be2+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "HE1",
+    "issue": "Heater Relay Error",
+    "fix_summary": "The heater relay is not operating correctly.",
+    "parts_needed": [
+      "Control Board",
+      "Heating Element"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+he1+washer+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Washer",
+    "code": "AE6",
+    "issue": "Inverter Communication Error",
+    "fix_summary": "Communication failure between inverter and main board.",
+    "parts_needed": [
+      "Inverter Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+washer+inverter+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+ae6+washer+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "OE",
+    "issue": "Drain Error",
+    "fix_summary": "The washer is not draining properly due to a clogged drain filter, hose, or faulty pump.",
+    "parts_needed": [
+      "Drain Pump",
+      "Drain Hose",
+      "Drain Filter"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+drain+pump&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+oe+error+washer+fix"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "IE",
+    "issue": "Water Inlet Error",
+    "fix_summary": "The washer is not filling with water due to low pressure or a faulty inlet valve.",
+    "parts_needed": [
+      "Water Inlet Valve",
+      "Inlet Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+water+inlet+valve&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+ie+error+washer+fix"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "UE",
+    "issue": "Unbalanced Load",
+    "fix_summary": "The load is uneven, preventing the washer from spinning correctly.",
+    "parts_needed": [
+      "Suspension Rods",
+      "Shock Absorbers"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+suspension+rods&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+ue+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "LE",
+    "issue": "Motor Locked Error",
+    "fix_summary": "The motor is overloaded or the rotor is locked.",
+    "parts_needed": [
+      "Drive Motor",
+      "Hall Sensor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+drive+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+le+error+washer+fix"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "FE",
+    "issue": "Overflow Error",
+    "fix_summary": "The washer is overfilling with water.",
+    "parts_needed": [
+      "Water Inlet Valve",
+      "Pressure Switch"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+pressure+switch&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+fe+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "DE",
+    "issue": "Door Error",
+    "fix_summary": "The washer door is not closing or locking properly.",
+    "parts_needed": [
+      "Door Lock Assembly"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+door+lock&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+de+error+washer+fix"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "TE",
+    "issue": "Heating Error",
+    "fix_summary": "The water is not heating correctly.",
+    "parts_needed": [
+      "Heating Element",
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+te+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "PE",
+    "issue": "Water Level Sensor Error",
+    "fix_summary": "The washer cannot detect the correct water level.",
+    "parts_needed": [
+      "Pressure Sensor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+pressure+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+pe+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "CE",
+    "issue": "Motor Current Error",
+    "fix_summary": "Abnormal electrical current detected in the motor.",
+    "parts_needed": [
+      "Drive Motor",
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+ce+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "AE",
+    "issue": "Leakage Error",
+    "fix_summary": "Water leakage detected inside the washer.",
+    "parts_needed": [
+      "Leak Sensor",
+      "Drain Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+leak+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+ae+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "PF",
+    "issue": "Power Failure",
+    "fix_summary": "Power interruption occurred during operation.",
+    "parts_needed": [
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+pf+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "CL",
+    "issue": "Child Lock Activated",
+    "fix_summary": "The control panel is locked for safety.",
+    "parts_needed": [
+      "None"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+control+panel&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+child+lock+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "CD",
+    "issue": "Cooling Down Mode",
+    "fix_summary": "Dryer cooling cycle is active (washer-dryer combo units).",
+    "parts_needed": [
+      "None"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+combo+parts&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+cd+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "EE",
+    "issue": "EEPROM Error",
+    "fix_summary": "Memory error detected in the control board.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+main+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+ee+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "HE",
+    "issue": "Heating Element Error",
+    "fix_summary": "The heating element is malfunctioning.",
+    "parts_needed": [
+      "Heating Element"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+he+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "SE",
+    "issue": "Motor Sensor Error",
+    "fix_summary": "The hall sensor is not detecting motor rotation.",
+    "parts_needed": [
+      "Hall Sensor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+hall+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+se+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "bE",
+    "issue": "Button Error",
+    "fix_summary": "A button on the control panel is stuck.",
+    "parts_needed": [
+      "User Interface Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+ui+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+be+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "tE1",
+    "issue": "Thermistor Error",
+    "fix_summary": "The washer cannot read water temperature correctly.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+te1+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "dHE",
+    "issue": "Dry Heater Error",
+    "fix_summary": "Drying heater is not operating in combo units.",
+    "parts_needed": [
+      "Dry Heater"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+dryer+heater&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dhe+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "E6",
+    "issue": "Clutch Error",
+    "fix_summary": "The clutch is not engaging properly.",
+    "parts_needed": [
+      "Clutch Assembly"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+clutch+assembly&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+e6+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "E7",
+    "issue": "Load Sensing Error",
+    "fix_summary": "The washer cannot determine load size accurately.",
+    "parts_needed": [
+      "Hall Sensor",
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+hall+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+e7+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "E8",
+    "issue": "Water Level Overflow",
+    "fix_summary": "Abnormal rise in water level detected.",
+    "parts_needed": [
+      "Pressure Sensor",
+      "Water Inlet Valve"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+water+inlet+valve&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+e8+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "E9",
+    "issue": "Drain Leakage Error",
+    "fix_summary": "Leak detected during draining operation.",
+    "parts_needed": [
+      "Drain Pump",
+      "Leak Sensor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+drain+pump&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+e9+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "E10",
+    "issue": "Fill Timeout Error",
+    "fix_summary": "The washer is taking too long to fill with water.",
+    "parts_needed": [
+      "Water Inlet Valve",
+      "Inlet Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+water+inlet+valve&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+e10+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "E11",
+    "issue": "Drain Timeout Error",
+    "fix_summary": "The washer is taking too long to drain.",
+    "parts_needed": [
+      "Drain Pump",
+      "Drain Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+drain+hose&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+e11+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "E12",
+    "issue": "Motor Overload",
+    "fix_summary": "Motor overload detected due to excessive load.",
+    "parts_needed": [
+      "Drive Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+drive+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+e12+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "E13",
+    "issue": "Dispenser Error",
+    "fix_summary": "Detergent dispenser is not functioning properly.",
+    "parts_needed": [
+      "Dispenser Assembly"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+dispenser+assembly&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+e13+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "E14",
+    "issue": "Inverter Error",
+    "fix_summary": "Inverter board malfunction detected.",
+    "parts_needed": [
+      "Inverter Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+inverter+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+e14+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Washer",
+    "code": "E15",
+    "issue": "Communication Error",
+    "fix_summary": "Communication failure between control boards.",
+    "parts_needed": [
+      "Main Control Board",
+      "Inverter Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+washer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+e15+error+washer"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "dE",
+    "issue": "Door Error",
+    "fix_summary": "The dryer door is not properly closed or the door switch is faulty.",
+    "parts_needed": [
+      "Door Switch",
+      "Door Latch"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+door+switch&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+de+error+fix"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "d80",
+    "issue": "Exhaust Airflow Blocked (80%)",
+    "fix_summary": "The exhaust vent is partially blocked, reducing airflow.",
+    "parts_needed": [
+      "Vent Hose",
+      "Lint Filter"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+vent+hose&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+d80+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "d90",
+    "issue": "Exhaust Airflow Blocked (90%)",
+    "fix_summary": "Severe blockage detected in dryer exhaust vent.",
+    "parts_needed": [
+      "Vent Hose",
+      "Wall Vent Hood"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+vent+kit&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+d90+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "d95",
+    "issue": "Exhaust Airflow Blocked (95%)",
+    "fix_summary": "Critical exhaust blockage; drying efficiency is severely reduced.",
+    "parts_needed": [
+      "Vent Cleaning Kit"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=dryer+vent+cleaning+kit&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+d95+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "HE",
+    "issue": "Heating Error",
+    "fix_summary": "The dryer is not heating properly.",
+    "parts_needed": [
+      "Heating Element",
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+he+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "TE1",
+    "issue": "Thermistor Error",
+    "fix_summary": "The temperature sensor is not reading correctly.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+te1+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "TE2",
+    "issue": "Temperature Sensor Error",
+    "fix_summary": "Abnormal temperature detected during operation.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+te2+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "FE",
+    "issue": "Fan Error",
+    "fix_summary": "The blower fan is not operating correctly.",
+    "parts_needed": [
+      "Blower Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+blower+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+fe+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "LE",
+    "issue": "Motor Locked Error",
+    "fix_summary": "The drum motor is locked or overloaded.",
+    "parts_needed": [
+      "Drive Motor",
+      "Drum Belt"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+drive+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+le+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "CE",
+    "issue": "Motor Current Error",
+    "fix_summary": "Abnormal current detected in the motor circuit.",
+    "parts_needed": [
+      "Motor",
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+ce+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "AE",
+    "issue": "Communication Error",
+    "fix_summary": "Communication failure between control boards.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+main+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+ae+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "bE",
+    "issue": "Button Error",
+    "fix_summary": "A control panel button is stuck or shorted.",
+    "parts_needed": [
+      "User Interface Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+ui+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+be+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "PF",
+    "issue": "Power Failure",
+    "fix_summary": "Power interruption occurred during the drying cycle.",
+    "parts_needed": [
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+pf+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "HS",
+    "issue": "Humidity Sensor Error",
+    "fix_summary": "The moisture sensor is not detecting dryness correctly.",
+    "parts_needed": [
+      "Moisture Sensor Bars"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+moisture+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+hs+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "nP",
+    "issue": "Electric Dryer Not Heating",
+    "fix_summary": "The dryer is not receiving correct voltage.",
+    "parts_needed": [
+      "Terminal Block",
+      "Power Cord"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+terminal+block&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+np+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "gAS",
+    "issue": "Gas Supply Error",
+    "fix_summary": "The gas dryer is not detecting proper gas flow.",
+    "parts_needed": [
+      "Gas Valve Assembly"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+gas+valve&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+gas+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "AF",
+    "issue": "Airflow Error",
+    "fix_summary": "Restricted airflow detected during operation.",
+    "parts_needed": [
+      "Vent Hose",
+      "Lint Filter"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+lint+filter&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+airflow+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E1",
+    "issue": "Control Board Error",
+    "fix_summary": "Internal control board malfunction.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+main+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e1+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E2",
+    "issue": "Heating Circuit Failure",
+    "fix_summary": "Open or short detected in heater circuit.",
+    "parts_needed": [
+      "Heating Element",
+      "Thermal Fuse"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+thermal+fuse&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e2+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E3",
+    "issue": "Motor Error",
+    "fix_summary": "The drum motor is not operating correctly.",
+    "parts_needed": [
+      "Drive Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+drive+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e3+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E4",
+    "issue": "Overheating Error",
+    "fix_summary": "The dryer temperature exceeded safe limits.",
+    "parts_needed": [
+      "Thermal Fuse",
+      "Thermostat"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+thermal+fuse&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e4+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E5",
+    "issue": "Voltage Error",
+    "fix_summary": "Incorrect voltage detected.",
+    "parts_needed": [
+      "Power Cord",
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+power+cord&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e5+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E6",
+    "issue": "Relay Error",
+    "fix_summary": "Relay malfunction on the control board.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e6+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E7",
+    "issue": "Sensor Circuit Error",
+    "fix_summary": "Fault detected in sensor wiring.",
+    "parts_needed": [
+      "Wiring Harness"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+wiring+harness&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e7+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E8",
+    "issue": "Drum Rotation Error",
+    "fix_summary": "The drum is not rotating as expected.",
+    "parts_needed": [
+      "Drum Belt",
+      "Idler Pulley"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+drum+belt&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e8+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E9",
+    "issue": "Internal Communication Error",
+    "fix_summary": "Internal communication failure detected.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+main+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e9+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E10",
+    "issue": "Cycle Timeout Error",
+    "fix_summary": "Drying cycle exceeded expected time.",
+    "parts_needed": [
+      "Moisture Sensor",
+      "Vent Hose"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+moisture+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e10+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E11",
+    "issue": "Start Button Error",
+    "fix_summary": "The start button is not responding.",
+    "parts_needed": [
+      "User Interface Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+ui+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e11+error"
+  },
+  {
+    "brand": "LG",
+    "type": "Dryer",
+    "code": "E12",
+    "issue": "Lint Filter Sensor Error",
+    "fix_summary": "The lint filter sensor is malfunctioning.",
+    "parts_needed": [
+      "Lint Filter Sensor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=lg+dryer+lint+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=lg+dryer+e12+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "dE",
+    "issue": "Door Error",
+    "fix_summary": "The dryer door is not properly closed or the door switch is defective.",
+    "parts_needed": [
+      "Door Switch",
+      "Door Latch"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+door+switch&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+de+error+fix"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "dF",
+    "issue": "Door Circuit Failure",
+    "fix_summary": "The door circuit is open or shorted.",
+    "parts_needed": [
+      "Door Switch",
+      "Wiring Harness"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+door+switch&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+df+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "HE",
+    "issue": "Heating Error",
+    "fix_summary": "The dryer is not heating properly.",
+    "parts_needed": [
+      "Heating Element",
+      "Thermal Fuse"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+he+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "HC",
+    "issue": "Heater Control Error",
+    "fix_summary": "Abnormal temperature detected in heater circuit.",
+    "parts_needed": [
+      "Thermistor",
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+hc+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "FE",
+    "issue": "Exhaust Fan Error",
+    "fix_summary": "The exhaust fan is not operating correctly.",
+    "parts_needed": [
+      "Fan Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+fan+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+fe+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "LE",
+    "issue": "Motor Error",
+    "fix_summary": "The drive motor is overloaded or locked.",
+    "parts_needed": [
+      "Drive Motor",
+      "Drum Belt"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+drive+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+le+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "AE",
+    "issue": "Communication Error",
+    "fix_summary": "Communication failure between control boards.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+ae+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "bE",
+    "issue": "Button Stuck Error",
+    "fix_summary": "A button on the control panel is stuck.",
+    "parts_needed": [
+      "User Interface Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+ui+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+be+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "PF",
+    "issue": "Power Failure",
+    "fix_summary": "Power interruption occurred during the cycle.",
+    "parts_needed": [
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+pf+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "tE",
+    "issue": "Temperature Sensor Error",
+    "fix_summary": "The temperature sensor is not reading correctly.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+te+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "tS",
+    "issue": "Temperature Sensor Open",
+    "fix_summary": "Open circuit detected in temperature sensor.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+ts+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "E1",
+    "issue": "Control Board Error",
+    "fix_summary": "Internal control board malfunction.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+main+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+e1+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "E2",
+    "issue": "Heating Timeout",
+    "fix_summary": "The dryer is taking too long to heat.",
+    "parts_needed": [
+      "Heating Element",
+      "Thermal Fuse"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+thermal+fuse&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+e2+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "E3",
+    "issue": "Overheating Error",
+    "fix_summary": "Unsafe temperature detected.",
+    "parts_needed": [
+      "Thermostat",
+      "Thermal Fuse"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+thermostat&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+e3+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "E4",
+    "issue": "Low Temperature Error",
+    "fix_summary": "The dryer is not reaching target temperature.",
+    "parts_needed": [
+      "Heating Element"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+e4+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "E5",
+    "issue": "Voltage Error",
+    "fix_summary": "Incorrect voltage detected.",
+    "parts_needed": [
+      "Power Cord",
+      "Terminal Block"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+terminal+block&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+e5+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "E6",
+    "issue": "Relay Error",
+    "fix_summary": "Heater relay malfunction detected.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+e6+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "E7",
+    "issue": "Sensor Circuit Error",
+    "fix_summary": "Fault detected in sensor wiring.",
+    "parts_needed": [
+      "Wiring Harness"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+wiring+harness&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+e7+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "E8",
+    "issue": "Drum Rotation Error",
+    "fix_summary": "The drum is not rotating correctly.",
+    "parts_needed": [
+      "Drum Belt",
+      "Idler Pulley"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+drum+belt&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+e8+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "E9",
+    "issue": "Internal Communication Error",
+    "fix_summary": "Internal data communication failure.",
+    "parts_needed": [
+      "Main Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+main+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+e9+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "AF",
+    "issue": "Airflow Blocked",
+    "fix_summary": "Restricted airflow due to lint buildup or vent blockage.",
+    "parts_needed": [
+      "Vent Hose",
+      "Lint Filter"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+vent+hose&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+airflow+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "nP",
+    "issue": "No Heat (Electric)",
+    "fix_summary": "The dryer is not receiving proper voltage.",
+    "parts_needed": [
+      "Power Cord",
+      "Terminal Block"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+power+cord&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+np+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "gAS",
+    "issue": "Gas Supply Error",
+    "fix_summary": "Gas dryer is not detecting proper gas flow.",
+    "parts_needed": [
+      "Gas Valve Assembly"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+gas+valve&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+gas+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "HS",
+    "issue": "Humidity Sensor Error",
+    "fix_summary": "The moisture sensor is not detecting dryness.",
+    "parts_needed": [
+      "Moisture Sensor Bars"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+moisture+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+hs+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "PS",
+    "issue": "Power Supply Error",
+    "fix_summary": "Abnormal power supply detected.",
+    "parts_needed": [
+      "Terminal Block",
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+terminal+block&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+ps+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "CF",
+    "issue": "Cooling Fan Error",
+    "fix_summary": "Cooling fan is not operating correctly.",
+    "parts_needed": [
+      "Cooling Fan Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+cooling+fan&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+cf+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "LF",
+    "issue": "Lint Filter Error",
+    "fix_summary": "Lint filter is clogged or not seated properly.",
+    "parts_needed": [
+      "Lint Filter"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+lint+filter&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+lint+filter+error"
+  },
+  {
+    "brand": "Samsung",
+    "type": "Dryer",
+    "code": "TS",
+    "issue": "Temperature Sensor Short",
+    "fix_summary": "Short circuit detected in temperature sensor.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=samsung+dryer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=samsung+dryer+ts+short+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "F1",
+    "issue": "Door Switch Error",
+    "fix_summary": "The dryer door switch is not detecting properly, preventing the dryer from starting.",
+    "parts_needed": [
+      "Door Switch"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+door+switch&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+f1+error+fix"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "F2",
+    "issue": "Thermostat Error",
+    "fix_summary": "The high-limit thermostat is open or faulty, causing heating issues.",
+    "parts_needed": [
+      "Thermostat",
+      "Thermal Fuse"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+thermostat&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+f2+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "F3",
+    "issue": "Heating Circuit Error",
+    "fix_summary": "The dryer is not heating due to an open or shorted heating circuit.",
+    "parts_needed": [
+      "Heating Element",
+      "Thermal Fuse"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+f3+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "F4",
+    "issue": "Motor Error",
+    "fix_summary": "The dryer motor is not running or overloaded.",
+    "parts_needed": [
+      "Drive Motor",
+      "Drum Belt"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+drive+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+f4+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "F5",
+    "issue": "Control Board Error",
+    "fix_summary": "The main control board has detected an internal fault.",
+    "parts_needed": [
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+f5+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "F6",
+    "issue": "Temperature Sensor Error",
+    "fix_summary": "The dryer temperature sensor is malfunctioning.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+f6+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "F7",
+    "issue": "Vent Blockage",
+    "fix_summary": "The dryer vent or lint screen is obstructed, reducing airflow and efficiency.",
+    "parts_needed": [
+      "Vent Hose",
+      "Lint Filter"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+vent+hose&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+f7+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "F8",
+    "issue": "Moisture Sensor Error",
+    "fix_summary": "The moisture sensor is not detecting dryness correctly.",
+    "parts_needed": [
+      "Moisture Sensor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+moisture+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+f8+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "F9",
+    "issue": "Gas Valve Error",
+    "fix_summary": "In gas dryers, the gas valve is not operating correctly.",
+    "parts_needed": [
+      "Gas Valve Assembly"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+gas+valve&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+f9+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "FF",
+    "issue": "Fan Failure",
+    "fix_summary": "The dryer fan is not functioning, affecting airflow.",
+    "parts_needed": [
+      "Blower Fan Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+fan+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+ff+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "CH",
+    "issue": "Child Lock Active",
+    "fix_summary": "Child lock feature is enabled, disabling controls.",
+    "parts_needed": [
+      "None"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+control+panel&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+child+lock"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "tE1",
+    "issue": "Thermistor Error",
+    "fix_summary": "Thermistor readings are out of range.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+te1+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "tE2",
+    "issue": "Temperature Sensor Open",
+    "fix_summary": "Open circuit in temperature sensor detected.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+te2+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "nP",
+    "issue": "No Heat (Electric)",
+    "fix_summary": "The dryer is not producing heat in electric mode, often due to power issues.",
+    "parts_needed": [
+      "Heating Element",
+      "Thermal Fuse"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+np+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "PS",
+    "issue": "Power Supply Error",
+    "fix_summary": "The power supply has abnormal voltage or interruption.",
+    "parts_needed": [
+      "Control Board",
+      "Power Cord"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+power+cord&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+ps+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "AF",
+    "issue": "Airflow Blockage",
+    "fix_summary": "Blocked airflow due to lint buildup or vent obstruction.",
+    "parts_needed": [
+      "Vent Hose",
+      "Lint Filter"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+vent+hose&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+airflow+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "HS",
+    "issue": "Humidity Sensor Error",
+    "fix_summary": "The moisture sensor cannot detect dryness properly.",
+    "parts_needed": [
+      "Moisture Sensor Bars"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+moisture+sensor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+hs+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "E1",
+    "issue": "Control Board Error",
+    "fix_summary": "Internal control board malfunction detected.",
+    "parts_needed": [
+      "Control Board"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+control+board&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+e1+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "E2",
+    "issue": "Dryer Heating Timeout",
+    "fix_summary": "The dryer is heating longer than normal, indicating a possible heater issue.",
+    "parts_needed": [
+      "Heating Element",
+      "Thermal Fuse"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+thermal+fuse&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+e2+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "E3",
+    "issue": "Motor Overload",
+    "fix_summary": "The dryer motor is overloaded or overheating.",
+    "parts_needed": [
+      "Drive Motor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+drive+motor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+e3+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "E4",
+    "issue": "Sensor Circuit Error",
+    "fix_summary": "A fault is detected in one of the sensor circuits.",
+    "parts_needed": [
+      "Wiring Harness",
+      "Sensor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+wiring+harness&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+e4+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "E5",
+    "issue": "Voltage Error",
+    "fix_summary": "Abnormal voltage detected in the dryer’s power supply.",
+    "parts_needed": [
+      "Power Cord",
+      "Terminal Block"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+power+cord&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+e5+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "LF",
+    "issue": "Lint Filter Error",
+    "fix_summary": "The lint filter is clogged or not in place.",
+    "parts_needed": [
+      "Lint Filter"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+lint+filter&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+lint+filter+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "tS",
+    "issue": "Temperature Sensor Short",
+    "fix_summary": "Short circuit detected in the temperature sensor.",
+    "parts_needed": [
+      "Thermistor"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+thermistor&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+ts+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "nF",
+    "issue": "No Heat (Gas)",
+    "fix_summary": "Gas dryer is not producing heat due to gas supply or igniter issues.",
+    "parts_needed": [
+      "Igniter",
+      "Gas Valve"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+igniter&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+nf+error"
+  },
+  {
+    "brand": "Whirlpool",
+    "type": "Dryer",
+    "code": "nH",
+    "issue": "No Heat (Electric)",
+    "fix_summary": "No heating in electric mode, often due to a failed heating element.",
+    "parts_needed": [
+      "Heating Element"
+    ],
+    "affiliate_link": "https://www.amazon.com/s?k=whirlpool+dryer+heating+element&tag=dryerandwashe-20",
+    "video_guide": "https://www.youtube.com/results?search_query=whirlpool+dryer+nh+error"
+  }
+]
